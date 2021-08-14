@@ -1,0 +1,175 @@
+body {
+  text-align: center;
+  font-family: 'Baloo Tammudu 2', serif, cursive;
+  font-size: 1.2rem;
+  margin:0;
+}
+
+h1 {
+  margin-top: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.632rem;
+  line-height: 2;
+  color: #66BFBF;
+}
+
+hr {
+  border-style: dotted;
+  height: 0;
+  border-width: 5px;
+  border-top: 0;
+  width: 5%;
+  color: grey;
+}
+
+p {
+  font-family: 'Dancing Script',sans-serif cursive;
+  font-size: 1.2rem;
+}
+
+div {
+  margin: 0 auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+}
+
+h3 {
+  text-align: left;
+  position: relative;
+  left: 15px;
+  color: #11999E;
+}
+
+h4 {
+  text-align: center;
+}
+
+a {
+  color: #11999E;
+}
+
+.mountain {
+  margin-bottom: 0;
+}
+
+.zero {
+  padding-top: 100px;
+  margin: 0 auto 0 auto;
+  position: relative;
+  background-color: #ccf3ff;
+}
+
+.BCLOUD {
+  position: absolute;
+  left: 300px;
+  top: 500px;
+}
+
+.TCLOUD {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.middle-container {
+  margin: 0;
+  display: inline-block;
+  background-color: white;
+  text-align: center;
+}
+
+.bottom-container
+{
+  background-color: #66BFBF;
+  padding : 25px 0 25px 0;
+}
+
+.mypic {
+  border-radius: 100%;
+  height: 15%;
+  width: 15%;
+  margin: 50px auto 50px auto;
+}
+
+.skill-row {
+  text-align: left;
+  display: inline-block;
+  width: 50%;
+}
+
+.table1 {
+  text-align: center;
+  margin: 0 auto 0 auto;
+}
+
+.programmer {
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+.mypic1 {
+  border-radius: 100%;
+  height: 20%;
+  width: 20%;
+  float: left;
+  margin: 30px;
+  position: relative;
+  right:50px;
+  top:50px;
+}
+
+.mypic2 {
+  border-radius: 100%;
+  height: 25%;
+  width: 25%;
+  float: right;
+  position: relative;
+  bottom: 50px;
+  left: 30px;
+}
+.BUTTON_KNL {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: white;
+   font-family: Open Sans;
+   font-size: 15px;
+   font-weight: 400;
+   padding: 25px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_KNL:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.hocopy
+{
+  color:black;
+}

@@ -1,0 +1,29 @@
+body
+{
+  text-align: center;
+  background-color: #ffccff;
+}
+.P1
+{
+  background-color: #ff3300
+}
+h1
+{
+  height: auto;
+  background-color: #00e6e6;
+  color: black;
+  display: inline-block;
+  width: 20%;
+
+}
+p
+{
+  background-color: grey;
+  color: black;
+  display: inline-block;
+  width: 10%;
+}
+.S1
+{
+  background-color: #66ff66;
+}

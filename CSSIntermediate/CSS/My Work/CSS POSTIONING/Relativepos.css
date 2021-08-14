@@ -1,0 +1,25 @@
+.A1
+{
+  background-color:Red;
+  height:100px;
+  width:100px;
+  position:relative;
+  left:200px;
+}
+.A2
+{
+  background-color: Blue;
+  height:100px;
+  width:100px;
+  position:relative;
+  bottom:100px;
+}
+.A3
+{
+  background-color: Yellow;
+  height:100px;
+  width:100px;
+  position :relative;
+  left:100px;
+  bottom:200px;
+}

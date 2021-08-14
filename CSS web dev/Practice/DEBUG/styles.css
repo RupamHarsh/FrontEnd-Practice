@@ -1,0 +1,37 @@
+body
+{
+    background-color: rgb(159, 255, 255);
+    font: italic;
+}
+h1
+{
+    background-color: black;
+    font-size: 50px;
+    color :blanchedalmond;
+
+}
+br{
+    border-style: dotted;
+    height: 0px;
+}
+img:hover
+{
+    background-color: greenyellow;
+}
+.Bacon
+{
+    background-color: blueviolet;
+}
+.TokyoGhoul
+{
+    background-color: tomato;
+    border-radius: 100%;
+
+}
+#Hindu
+{
+    background-color: thistle;
+    font-size: medium;
+    font-style: oblique;
+
+}

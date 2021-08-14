@@ -1,0 +1,27 @@
+.A1
+{
+  background-color:Red;
+  height:100px;
+  width:100px;
+  position:absolute;
+  left:200px;
+  top:200px;
+}
+.A2
+{
+  background-color: Blue;
+  height:100px;
+  width:100px;
+  position:absolute;
+  top:100px;
+  left:100px;
+}
+.A3
+{
+  background-color: Yellow;
+  height:100px;
+  width:100px;
+  position :absolute;
+  left:0px;
+  top:0px;
+}
